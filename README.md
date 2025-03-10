@@ -17,8 +17,9 @@ Atualmente, estou cursando o 3º período de Análise e Desenvolvimento de Siste
 - **[Wiki Cxpro](link)** - Em breve vou hospedar o site.
 
 ## 📫 Contato
-<p> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogomlobo/)</p>
-<p> [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](diogo.dmlrj@gmail.com)</p>
+
+<a href = "https://www.linkedin.com/in/diogomlobo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+<a href = "mailto:diogo.dmlrj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 
 
 
