@@ -20,10 +20,9 @@ Atualmente, estou cursando o 3º período de Análise e Desenvolvimento de Siste
 
 ## 📫 Contato
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogomlobo/)
-- **Email:** seuemail@example.com
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](diogo.dmlrj@gmail.com)
 - **Portfólio:** [Seu Portfólio](link) (se tiver)
 
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](diogo.dmlrj@gmail.com)
 
 
 
@@ -31,14 +30,7 @@ Atualmente, estou cursando o 3º período de Análise e Desenvolvimento de Siste
 
 
 
-## 🚀 Hard Skills
 
-<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20"/> ▰▰▰▰▰▱▱▱▱▱  (50%)</p>
-<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> ▰▰▰▰▰▰▰▰▰▱  (90%) </p>
-<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> ▰▰▰▰▰▰▰▰▱▱  (80%) </p>
-<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> ▰▱▱▱▱▱▱▱▱▱  (10%) </p>
-<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="20"/> ▰▱▱▱▱▱▱▱▱▱  (10%) </p>
-<p> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="20"/> ▰▱▱▱▱▱▱▱▱▱  (10%) </p>
 
 
 
