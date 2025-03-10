@@ -3,6 +3,22 @@
 🌟 Desenvolvedor Web em formação | 3º Período de Análise e Desenvolvimento de Sistemas
 
 Bem-vindo ao meu GitHub! Estou em busca de um estágio para aplicar e expandir meus conhecimentos, contribuindo para projetos reais e inovadores.
+<p align="left">
+    <a href="https://github.com/DioLobo?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/DioLobo?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/DioLobo?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/DioLobo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 ## 🎯 Objetivo
 Atualmente, estou cursando o 3º período de Análise e Desenvolvimento de Sistemas e busco uma oportunidade de estágio como desenvolvedor web. Meu objetivo é aprimorar minhas habilidades técnicas, colaborar em equipe e contribuir para o desenvolvimento de soluções web eficientes e criativas.
