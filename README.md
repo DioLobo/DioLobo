@@ -19,11 +19,13 @@ Atualmente, estou cursando o 3º período de Análise e Desenvolvimento de Siste
 - **[Nome do Projeto 3](link)** - Breve descrição do projeto e tecnologias utilizadas.
 
 ## 📫 Contato
-- **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/diogomlobo/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogomlobo/)
 - **Email:** seuemail@example.com
 - **Portfólio:** [Seu Portfólio](link) (se tiver)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogomlobo/)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](diogo.dmlrj@gmail.com)
+
+
 
 
 
