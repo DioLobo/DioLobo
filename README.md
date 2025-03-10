@@ -11,7 +11,7 @@ Atualmente, estou cursando o 3º período de Análise e Desenvolvimento de Siste
 - **Linguagens:** HTML, CSS, JavaScript (em aprendizado), PHP (em aprendizado), Python (em aprendizado)
 - **Frameworks:** Bootstrap (em aprendizado), React (em aprendizado), Node.js (em aprendizado)
 - **Ferramentas:** Git, VS Code, Figma (em aprendizado)
-- **Conceitos:** Responsive Design
+
 
 
 <span style="display: inline-block; margin-right: 10px;">
