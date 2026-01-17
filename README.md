@@ -1,6 +1,6 @@
 # Olá, eu sou Diogo Lobo! 👋
 
-🌟 Desenvolvedor Web em formação | 3º Período de Análise e Desenvolvimento de Sistemas
+🌟 Desenvolvedor Web em formação | 5º Período de Análise e Desenvolvimento de Sistemas
 
 Bem-vindo ao meu GitHub! Estou em busca de um estágio para aplicar e expandir meus conhecimentos, contribuindo para projetos reais e inovadores.
 <p align="left">
@@ -21,7 +21,7 @@ Bem-vindo ao meu GitHub! Estou em busca de um estágio para aplicar e expandir m
 </p>
 
 ## 🎯 Objetivo
-Atualmente, estou cursando o 3º período de Análise e Desenvolvimento de Sistemas e busco uma oportunidade de estágio como desenvolvedor web. Meu objetivo é aprimorar minhas habilidades técnicas, colaborar em equipe e contribuir para o desenvolvimento de soluções web eficientes e criativas.
+Atualmente, estou cursando o 5º período de Análise e Desenvolvimento de Sistemas e busco uma oportunidade de estágio como desenvolvedor web. Meu objetivo é aprimorar minhas habilidades técnicas, colaborar em equipe e contribuir para o desenvolvimento de soluções web eficientes e criativas.
 
 ## 💻 Habilidades Técnicas
 - **Linguagens:** HTML, CSS, JavaScript (em aprendizado), PHP (em aprendizado), Python (em aprendizado)
