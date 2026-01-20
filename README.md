@@ -64,9 +64,8 @@ Atualmente, estou cursando o 5º período de Análise e Desenvolvimento de Siste
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="32" height="32" />
 </span>
 
-
 ## 🚀 Projetos Destacados
-- **[Wiki Cxpro](link)** - Em breve vou hospedar o site.
+- **[Wiki Cxpro](https://github.com/DioLobo/Wikicx)** - Plataforma LMS gamificada com foco em segurança e treinamento corporativo.
 
 ## 📫 Contato
 
